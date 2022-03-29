@@ -1,2 +1,2 @@
 # ReviwContentAPPINVENTOR
- Revisão de conteúdo, criação de uma tela de login simples no APP - Inventor
+Atividade de revisão DDM II criação de uma tela de login simples, Cadastro e dados cadastrais no APP Inventor
